@@ -1,0 +1,16 @@
+{
+    "id": "{14B20F7F-7A5E-BDEC-A754-2788D27A60CC}",
+    "name": "simple MQTT sending tool",
+    "type": 3,
+    "vendor": "MQTT",
+    "aliases": [],
+    "parentRequirements": [
+        "{043EA491-0325-4ADD-8FC2-A30C8EEB4D3F}"
+    ],
+    "childRequirements": [],
+    "implemented": [
+        "{7F7632D9-FA40-4F38-8DEA-C83CD4325A32}"
+    ],
+    "prefix": "SMST",
+    "url": ""
+}

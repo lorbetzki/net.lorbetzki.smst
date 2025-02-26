@@ -1,0 +1,12 @@
+{
+    "id": "{3D2FC58F-D29C-FD4B-536A-F80B02AC5502}",
+    "name": "simple MQTT sending tool",
+    "author": "Kristian Lorbetzki",
+    "url": "",
+    "compatibility": {
+        "version": "7.1"
+    },
+    "version": "1.0",
+    "build": 20250226,
+    "date": 0
+}
